@@ -9,7 +9,7 @@
     width: 100vw;
     max-width: 800px;
     border-radius: 10px;
-    color: #fff;
+    color: #0f0e0e;
 
 }
 .type{
@@ -17,7 +17,7 @@
     text-align: center;
     font-size: 30px;
     text-transform: uppercase;
-    color: #ffffff62;
+    color: #11101062;
 }
 
 .header {
@@ -28,7 +28,7 @@
 h1 {
     font-size: 10px;
     font-weight: 500;
-    color: #ffffff62;
+    color: #0f0f0f62;
     text-transform: uppercase;
 
 }
@@ -44,9 +44,9 @@ span {
 .stopWatch {
     padding: 30px 0;
     border-radius: 10px;
-    background: rgba(255, 255, 255, 0.15);
+    background: rgba(0, 0, 0, 0.15);
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-    border: 1px solid rgba(255, 255, 255, 0.18);
+    border: 1px solid rgba(14, 13, 13, 0.18);
     margin-top: 30px;
     text-align: center;
     transition: all 0.3s;
@@ -59,7 +59,7 @@ span {
 .digits {
     text-align: center;
     font-size: 50px;
-    color: #fff;
+    color: #030303;
     font-family: 'Orbitron', sans-serif;
 }
 
@@ -89,7 +89,7 @@ span {
 .btn {
     padding: 10px 20px;
     border-radius: 5px;
-    color: #fff;
+    color: #0a0a0a;
     border: none;
     font-size: 12px;
     font-weight: 500;
@@ -123,13 +123,13 @@ span {
     justify-content: space-between;
     padding: 10px;
     border-radius: 10px;
-    background: rgba(255, 255, 255, 0.15);
+    background: rgba(0, 0, 0, 0.15);
     box-shadow: 0 8px 32px 0 rgba(255, 255, 255, 0.18);
     border: 1px solid rgba(255, 255, 255, 0.18);
 }
 
 .laps .lap.active p{
-    color: #9af545;
+    color: #000000;
     font-weight: 800;
 }
 
@@ -162,7 +162,7 @@ span {
 
 .number {
     font-size: 50px;
-    color: #fffcd6;
+    color: #000000;
     font-family: 'Orbitron', sans-serif;
 }
 
